@@ -1,12 +1,5 @@
 <div align="center">
 <br/>
-<br/>
-
-<img src="./img/KY0J.gif" width="72" alt=""/>
-
-<br/>
-<br/>
-
 # Daniel Sattarzanov
 
 **Fullstack Developer**
