@@ -40,7 +40,7 @@ I design and build web applications focused on performance, clarity, and scalabi
   <a href="https://www.linkedin.com/in/daniel-sattarzanov-2b8553238">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/sattarzanov">
+  <a href="https://t.me/sattarzhanov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:sattarzhanovdev@gmail.com">
